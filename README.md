@@ -52,22 +52,107 @@ I like projects that sit at the intersection of **design and engineering** — w
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=F2C6D6"/>
-<img src="https://img.shields.io/badge/-TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=F2C6D6"/>
-<img src="https://img.shields.io/badge/-Python-0D0D0D?style=for-the-badge&logo=python&logoColor=F2C6D6"/>
-<img src="https://img.shields.io/badge/-HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=F2C6D6"/>
-<img src="https://img.shields.io/badge/-CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=F2C6D6"/>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,cpp&theme=dark" />
 
-<img src="https://img.shields.io/badge/-React-0D0D0D?style=for-the-badge&logo=react&logoColor=F2C6D6"/>
-<img src="https://img.shields.io/badge/-Next.js-0D0D0D?style=for-the-badge&logo=next.js&logoColor=F2C6D6"/>
-<img src="https://img.shields.io/badge/-Tailwind_CSS-0D0D0D?style=for-the-badge&logo=tailwindcss&logoColor=F2C6D6"/>
-<img src="https://img.shields.io/badge/-Node.js-0D0D0D?style=for-the-badge&logo=node.js&logoColor=F2C6D6"/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/-MongoDB-0D0D0D?style=for-the-badge&logo=mongodb&logoColor=F2C6D6"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=F2C6D6"/>
-<img src="https://img.shields.io/badge/-Git-0D0D0D?style=for-the-badge&logo=git&logoColor=F2C6D6"/>
-<img src="https://img.shields.io/badge/-Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=F2C6D6"/>
-<img src="https://img.shields.io/badge/-Figma-0D0D0D?style=for-the-badge&logo=figma&logoColor=F2C6D6"/>
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vue&theme=dark" />
+
+<br/><br/>
+
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres,firebase&theme=dark" />
+
+<br/><br/>
+
+**Tools & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,linux&theme=dark" />
+
+</div>
+
+<div align="center"><sub>✨ badges via <a href="https://skillicons.dev">skillicons.dev</a> — sticker-style, dark-theme icons that match this palette ✨</sub></div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1B22,50:D9A5BC,100:2E1B22&height=3&width=100%"/>
+
+## 🗣️ &nbsp;Languages I Speak
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-English-0D0D0D?style=for-the-badge&color=D9A5BC"/>
+<img src="https://img.shields.io/badge/-French-0D0D0D?style=for-the-badge&color=D9A5BC"/>
+<img src="https://img.shields.io/badge/-Arabic-0D0D0D?style=for-the-badge&color=D9A5BC"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1B22,50:D9A5BC,100:2E1B22&height=3&width=100%"/>
+
+## 🎓 &nbsp;Certificates & Achievements
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**📜 Certificate Name One**
+<br/>
+<sub>Issuing Platform · Month Year</sub>
+<br/>
+<a href="#">🔗 View Credential</a>
+
+</td>
+<td width="50%" valign="top">
+
+**📜 Certificate Name Two**
+<br/>
+<sub>Issuing Platform · Month Year</sub>
+<br/>
+<a href="#">🔗 View Credential</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📜 Certificate Name Three**
+<br/>
+<sub>Issuing Platform · Month Year</sub>
+<br/>
+<a href="#">🔗 View Credential</a>
+
+</td>
+<td width="50%" valign="top">
+
+**📜 Certificate Name Four**
+<br/>
+<sub>Issuing Platform · Month Year</sub>
+<br/>
+<a href="#">🔗 View Credential</a>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1B22,50:D9A5BC,100:2E1B22&height=3&width=100%"/>
+
+## 🧩 &nbsp;DSA & Problem Solving
+
+<div align="center">
+
+<a href="https://codolio.com/profile/YOUR_CODOLIO_USERNAME">
+<img src="https://img.shields.io/badge/Codolio-View_Profile-0D0D0D?style=for-the-badge&logo=codeforces&logoColor=F2C6D6&labelColor=0D0D0D&color=D9A5BC"/>
+</a>
+<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/-LeetCode-0D0D0D?style=for-the-badge&logo=leetcode&logoColor=F2C6D6"/></a>
+<a href="https://codeforces.com/profile/YOUR_CODEFORCES"><img src="https://img.shields.io/badge/-Codeforces-0D0D0D?style=for-the-badge&logo=codeforces&logoColor=F2C6D6"/></a>
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK"><img src="https://img.shields.io/badge/-HackerRank-0D0D0D?style=for-the-badge&logo=hackerrank&logoColor=F2C6D6"/></a>
+
+<br/><br/>
+
+<sub>📊 All-in-one competitive programming stats, tracked live on <a href="https://codolio.com/profile/YOUR_CODOLIO_USERNAME">Codolio</a></sub>
 
 </div>
 
