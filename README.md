@@ -1,172 +1,138 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanushka%20Srivastava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Dev%20%C3%97%20Generative%20Artist%20%C3%97%20AI%20Explorer&descAlignY=56&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d1b24,100:1a1a1a&height=200&section=header&text=Your%20Name&fontSize=48&fontColor=F7C6D9&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descAlign=50&descColor=E8D5DC" width="100%"/>
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=I+build+things+that+matter+%F0%9F%9A%80;Code+%C3%97+Design+%C3%97+Generative+AI+%F0%9F%A7%A0;Turning+leftover+food+into+impact+%F0%9F%8D%B1;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=F7C6D9&center=true&vCenter=true&width=500&lines=Building+clean%2C+thoughtful+web+apps;Turning+coffee+into+code+%E2%98%95;Always+learning+something+new" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://github.com/YOUR_USERNAME?tab=followers">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/YOUR_USERNAME&label=FOLLOWERS&query=followers&color=F7C6D9&style=for-the-badge&labelColor=1a1a1a"/>
 </a>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/YOUR_USERNAME&label=STARS&query=public_repos&color=F7C6D9&style=for-the-badge&labelColor=1a1a1a"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=F7C6D9&style=for-the-badge&labelColor=1a1a1a"/>
+
+</div>
 
 <br/>
 
-<!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=TanushkaSrivastava&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/TanushkaSrivastava?style=for-the-badge&color=a855f7&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/TanushkaSrivastava)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7C6D9,100:1a1a1a&height=2&width=100%"/>
 
-</div>
+## 🌸 About Me
 
----
+<table>
+<tr>
+<td width="60%" valign="top">
 
-## 👾 About Me
+- 💻 Full Stack Developer passionate about building modern web apps.
+- 🌱 Currently learning System Design, Cloud & DevOps.
+- 🚀 Building AI-powered projects and contributing to Open Source.
+- 🎯 Goal: create products that solve real-world problems.
+- 🪐 Passionate about AI, design, and building things that matter.
+- ✨ Always chasing the next idea worth building.
 
-```python
-class TanushkaSrivastava:
-    def __init__(self):
-        self.name        = "Tanushka Srivastava"
-        self.role        = "Full Stack Developer"
-        self.university  = "Galgotias University, Greater Noida"
-        self.degree      = "B.Tech CSE (2023–2027) | CGPA: 8.4"
-        self.passions    = ["Generative AI", "3D Modeling", "Retro Gaming", "Graphic Design"]
-        self.currently   = "Building SaveBite 🍱 — food waste → community impact"
-        self.learning    = ["Advanced AI Models", "Cloud Architecture", "Generative AI"]
-        self.fun_fact    = "I turn leftover party food into dinner for someone in need 💜"
+</td>
+<td width="40%" valign="top" align="center">
 
-    def say_hi(self):
-        print("I write code that works, designs that shine,")
-        print("and experiments that push limits. Let's build something.")
+<img src="https://your-image-link-here.png" width="90%"/>
+<sub>replace with your own illustration/avatar</sub>
+
+</td>
+</tr>
+</table>
+
+```yaml
+name: Your Name
+role: Full Stack Developer
+location: Your City, Country
+currently_building: Project Name
+currently_learning: New Framework / Skill
+collab_interest: Open source, web apps, dev tools
+fun_fact: "Insert something quirky about you"
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7C6D9,100:1a1a1a&height=2&width=100%"/>
 
-## 🚀 Current Project
-
-<div align="center">
-
-### 🍱 SaveBite — *Because Food Deserves a Second Chance*
-
-> **Connecting surplus food from events & parties to people who need it most.**
-> A donation & delivery platform that turns post-celebration leftovers into community meals.
-
-| 🎯 Mission | 🛠️ Stack | 📌 Status |
-|---|---|---|
-| Zero food waste from events | React · Node.js · MongoDB | 🔨 In Development |
-
-[![SaveBite Repo](https://img.shields.io/badge/View%20SaveBite-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanushkaSrivastava)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
+## 🩶 Tech Stack
 
 <div align="center">
 
 **Languages**
+<br/>
+<img src="https://img.shields.io/badge/-JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=F7C6D9" />
+<img src="https://img.shields.io/badge/-TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=F7C6D9" />
+<img src="https://img.shields.io/badge/-Python-1a1a1a?style=for-the-badge&logo=python&logoColor=F7C6D9" />
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/-React-1a1a1a?style=for-the-badge&logo=react&logoColor=F7C6D9" />
+<img src="https://img.shields.io/badge/-Next.js-1a1a1a?style=for-the-badge&logo=next.js&logoColor=F7C6D9" />
+<img src="https://img.shields.io/badge/-Tailwind_CSS-1a1a1a?style=for-the-badge&logo=tailwindcss&logoColor=F7C6D9" />
 
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Data & AI**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Tools**
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+**Backend & Tools**
+<br/>
+<img src="https://img.shields.io/badge/-Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=F7C6D9" />
+<img src="https://img.shields.io/badge/-Git-1a1a1a?style=for-the-badge&logo=git&logoColor=F7C6D9" />
+<img src="https://img.shields.io/badge/-Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=F7C6D9" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7C6D9,100:1a1a1a&height=2&width=100%"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TanushkaSrivastava&show_icons=true&theme=tokyonight&border_color=a855f7&hide_border=false&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TanushkaSrivastava&theme=tokyonight&border=a855f7&ring=a855f7&fire=ff6b6b" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=F7C6D9&icon_color=F7C6D9&text_color=E8D5DC&ring_color=F7C6D9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=F7C6D9&text_color=E8D5DC" width="48%"/>
 
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanushkaSrivastava&layout=compact&theme=tokyonight&border_color=a855f7&langs_count=8" />
-
-<br/>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TanushkaSrivastava&theme=tokyo-night&border_color=a855f7&color=a855f7&line=a855f7&point=ffffff)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=1a1a1a&ring=F7C6D9&fire=F7C6D9&currStreakLabel=F7C6D9&sideLabels=E8D5DC&currStreakNum=E8D5DC&sideNums=E8D5DC&dates=E8D5DC" width="70%"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7C6D9,100:1a1a1a&height=2&width=100%"/>
 
-## 🏆 Certifications
+## 🌷 Featured Projects
 
-| 🎖️ Certification | 🏢 Issuer |
-|---|---|
-| Oracle Certified Foundation Associate — AI, ML, DL, Gen AI | Oracle |
-| Cloud Computing | Infosys |
-| Java Certified | GUVI |
-| Python Certified | GUVI |
-| Design Thinking | NPTEL |
+<table>
+<tr>
+<td width="50%">
 
----
+### [Project One](https://github.com/YOUR_USERNAME/project-one)
+Short one-line description of the project and the problem it solves.
+`React` `Node.js` `MongoDB`
 
-## 🌙 What I Do After Dark
+</td>
+<td width="50%">
 
-```
-🎨  Generative Art          — letting algorithms paint
-🧊  3D Modeling             — sculpting worlds from nothing
-🕹️  Retro Gaming            — NES pixels > 4K raytracing (fight me)
-🤖  AI Experiments          — poking at models to see what breaks
-```
+### [Project Two](https://github.com/YOUR_USERNAME/project-two)
+Short one-line description of the project and the problem it solves.
+`Next.js` `TypeScript` `Tailwind`
 
----
+</td>
+</tr>
+</table>
 
-## 🤝 Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7C6D9,100:1a1a1a&height=2&width=100%"/>
+
+## 🤍 Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanushka-srivastava-4b3017286/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://tanushka-srivastava-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanushkasri245@gmail.com)
-[![Twitter / X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your-handle-here)
+<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/-LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=F7C6D9" /></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=F7C6D9" /></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=F7C6D9" /></a>
+<a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/-Twitter-1a1a1a?style=for-the-badge&logo=twitter&logoColor=F7C6D9" /></a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b24,100:1a1a1a&height=100&section=footer"/>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-*"I write code that works, designs that shine, and experiments that push limits."*
-**— Tanushka Srivastava**
-
+<div align="center">
+<sub>✨ Thanks for stopping by — feel free to explore my repos ✨</sub>
 </div>
