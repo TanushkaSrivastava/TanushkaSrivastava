@@ -1,138 +1,166 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d1b24,100:1a1a1a&height=200&section=header&text=Your%20Name&fontSize=48&fontColor=F7C6D9&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descAlign=50&descColor=E8D5DC" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1F1417,100:0D0D0D&height=220&section=header&text=Houria%20Hs&fontSize=52&fontColor=F7C6D9&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50&descColor=E8D5DC" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=F7C6D9&center=true&vCenter=true&width=500&lines=Building+clean%2C+thoughtful+web+apps;Turning+coffee+into+code+%E2%98%95;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=E8AFC4&center=true&vCenter=true&width=560&lines=Crafting+clean%2C+thoughtful+web+experiences;Turning+ideas+into+working+products;Always+chasing+the+next+thing+worth+building" alt="Typing SVG" />
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_USERNAME?tab=followers">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/YOUR_USERNAME&label=FOLLOWERS&query=followers&color=F7C6D9&style=for-the-badge&labelColor=1a1a1a"/>
-</a>
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/YOUR_USERNAME&label=STARS&query=public_repos&color=F7C6D9&style=for-the-badge&labelColor=1a1a1a"/>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=F7C6D9&style=for-the-badge&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/FOLLOWERS-12-1a1a1a?style=for-the-badge&labelColor=0D0D0D&color=D9A5BC"/>
+<img src="https://img.shields.io/badge/STARS-12-1a1a1a?style=for-the-badge&labelColor=0D0D0D&color=D9A5BC"/>
+<img src="https://komarev.com/ghpvc/?username=Houria-hs&label=PROFILE+VIEWS&style=for-the-badge&color=D9A5BC&labelColor=0D0D0D"/>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1B22,50:D9A5BC,100:2E1B22&height=3&width=100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7C6D9,100:1a1a1a&height=2&width=100%"/>
-
-## 🌸 About Me
+## 🕊️ &nbsp;About Me
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
-- 💻 Full Stack Developer passionate about building modern web apps.
-- 🌱 Currently learning System Design, Cloud & DevOps.
-- 🚀 Building AI-powered projects and contributing to Open Source.
-- 🎯 Goal: create products that solve real-world problems.
-- 🪐 Passionate about AI, design, and building things that matter.
-- ✨ Always chasing the next idea worth building.
+Hi, I'm **Houria** — a full-stack developer who enjoys turning rough ideas into clean, working products.
 
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://your-image-link-here.png" width="90%"/>
-<sub>replace with your own illustration/avatar</sub>
-
-</td>
-</tr>
-</table>
-
-```yaml
-name: Your Name
-role: Full Stack Developer
-location: Your City, Country
-currently_building: Project Name
-currently_learning: New Framework / Skill
-collab_interest: Open source, web apps, dev tools
-fun_fact: "Insert something quirky about you"
+```
+🔭  Currently building:     something new
+🌱  Currently learning:     System Design · Cloud · DevOps
+🤝  Open to collaborate:    open source · AI-powered apps
+🎯  Goal:                   build products that solve real problems
+🎨  Off-screen:             astronomy, art & painting
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7C6D9,100:1a1a1a&height=2&width=100%"/>
-
-## 🩶 Tech Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/-JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=F7C6D9" />
-<img src="https://img.shields.io/badge/-TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=F7C6D9" />
-<img src="https://img.shields.io/badge/-Python-1a1a1a?style=for-the-badge&logo=python&logoColor=F7C6D9" />
-
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/-React-1a1a1a?style=for-the-badge&logo=react&logoColor=F7C6D9" />
-<img src="https://img.shields.io/badge/-Next.js-1a1a1a?style=for-the-badge&logo=next.js&logoColor=F7C6D9" />
-<img src="https://img.shields.io/badge/-Tailwind_CSS-1a1a1a?style=for-the-badge&logo=tailwindcss&logoColor=F7C6D9" />
-
-**Backend & Tools**
-<br/>
-<img src="https://img.shields.io/badge/-Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=F7C6D9" />
-<img src="https://img.shields.io/badge/-Git-1a1a1a?style=for-the-badge&logo=git&logoColor=F7C6D9" />
-<img src="https://img.shields.io/badge/-Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=F7C6D9" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7C6D9,100:1a1a1a&height=2&width=100%"/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=F7C6D9&icon_color=F7C6D9&text_color=E8D5DC&ring_color=F7C6D9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=F7C6D9&text_color=E8D5DC" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=1a1a1a&ring=F7C6D9&fire=F7C6D9&currStreakLabel=F7C6D9&sideLabels=E8D5DC&currStreakNum=E8D5DC&sideNums=E8D5DC&dates=E8D5DC" width="70%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7C6D9,100:1a1a1a&height=2&width=100%"/>
-
-## 🌷 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### [Project One](https://github.com/YOUR_USERNAME/project-one)
-Short one-line description of the project and the problem it solves.
-`React` `Node.js` `MongoDB`
+I like projects that sit at the intersection of **design and engineering** — where the code works *and* the experience feels good. Always chasing the next idea worth building.
 
 </td>
-<td width="50%">
+<td width="38%" valign="top" align="center">
 
-### [Project Two](https://github.com/YOUR_USERNAME/project-two)
-Short one-line description of the project and the problem it solves.
-`Next.js` `TypeScript` `Tailwind`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=8C8C8C&center=true&vCenter=true&width=280&height=40&lines=%E2%9C%A8+coding+with+intention" alt="tagline"/>
+
+<br/>
+
+> *"Simplicity is the soul of good code."*
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7C6D9,100:1a1a1a&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1B22,50:D9A5BC,100:2E1B22&height=3&width=100%"/>
 
-## 🤍 Connect with Me
+## 🩶 &nbsp;Tech Stack
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/-LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=F7C6D9" /></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=F7C6D9" /></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=F7C6D9" /></a>
-<a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/-Twitter-1a1a1a?style=for-the-badge&logo=twitter&logoColor=F7C6D9" /></a>
+<img src="https://img.shields.io/badge/-JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=F2C6D6"/>
+<img src="https://img.shields.io/badge/-TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=F2C6D6"/>
+<img src="https://img.shields.io/badge/-Python-0D0D0D?style=for-the-badge&logo=python&logoColor=F2C6D6"/>
+<img src="https://img.shields.io/badge/-HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=F2C6D6"/>
+<img src="https://img.shields.io/badge/-CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=F2C6D6"/>
+
+<img src="https://img.shields.io/badge/-React-0D0D0D?style=for-the-badge&logo=react&logoColor=F2C6D6"/>
+<img src="https://img.shields.io/badge/-Next.js-0D0D0D?style=for-the-badge&logo=next.js&logoColor=F2C6D6"/>
+<img src="https://img.shields.io/badge/-Tailwind_CSS-0D0D0D?style=for-the-badge&logo=tailwindcss&logoColor=F2C6D6"/>
+<img src="https://img.shields.io/badge/-Node.js-0D0D0D?style=for-the-badge&logo=node.js&logoColor=F2C6D6"/>
+
+<img src="https://img.shields.io/badge/-MongoDB-0D0D0D?style=for-the-badge&logo=mongodb&logoColor=F2C6D6"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=F2C6D6"/>
+<img src="https://img.shields.io/badge/-Git-0D0D0D?style=for-the-badge&logo=git&logoColor=F2C6D6"/>
+<img src="https://img.shields.io/badge/-Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=F2C6D6"/>
+<img src="https://img.shields.io/badge/-Figma-0D0D0D?style=for-the-badge&logo=figma&logoColor=F2C6D6"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1B22,50:D9A5BC,100:2E1B22&height=3&width=100%"/>
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Houria-hs&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E8AFC4&icon_color=D9A5BC&text_color=C9BFC4&ring_color=D9A5BC" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Houria-hs&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E8AFC4&text_color=C9BFC4&langs_count=8" width="38%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Houria-hs&hide_border=true&background=0D0D0D&ring=D9A5BC&fire=E8AFC4&currStreakLabel=E8AFC4&sideLabels=C9BFC4&currStreakNum=C9BFC4&sideNums=C9BFC4&dates=8C8C8C" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Houria-hs&bg_color=0D0D0D&color=E8AFC4&line=D9A5BC&point=F2C6D6&area=true&hide_border=true" width="90%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1B22,50:D9A5BC,100:2E1B22&height=3&width=100%"/>
+
+## 🌷 &nbsp;Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<div>
+
+### 🩰 [Project One](https://github.com/Houria-hs/project-one)
+A short, clear line describing what this project does and why it matters.
+
+`React` `Node.js` `MongoDB`
+
+</div>
+</td>
+<td width="50%">
+<div>
+
+### 🕯️ [Project Two](https://github.com/Houria-hs/project-two)
+A short, clear line describing what this project does and why it matters.
+
+`Next.js` `TypeScript` `Tailwind`
+
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<div>
+
+### 🪞 [Project Three](https://github.com/Houria-hs/project-three)
+A short, clear line describing what this project does and why it matters.
+
+`Python` `FastAPI` `PostgreSQL`
+
+</div>
+</td>
+<td width="50%">
+<div>
+
+### 🎐 [Project Four](https://github.com/Houria-hs/project-four)
+A short, clear line describing what this project does and why it matters.
+
+`Vue` `Firebase` `Figma`
+
+</div>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1B22,50:D9A5BC,100:2E1B22&height=3&width=100%"/>
+
+## 🤍 &nbsp;Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/-LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=F2C6D6"/></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=F2C6D6"/></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=F2C6D6"/></a>
+<a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/-Twitter-0D0D0D?style=for-the-badge&logo=twitter&logoColor=F2C6D6"/></a>
+<a href="https://instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/-Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=F2C6D6"/></a>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b24,100:1a1a1a&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1F1417,100:0D0D0D&height=110&section=footer"/>
 </div>
 
-<div align="center">
-<sub>✨ Thanks for stopping by — feel free to explore my repos ✨</sub>
-</div>
+<p align="center">
+<sub>✨ Thanks for stopping by — feel free to explore my repos and reach out ✨</sub>
+</p>
