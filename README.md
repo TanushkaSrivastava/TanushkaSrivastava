@@ -21,7 +21,7 @@
 <tr>
 <td width="62%" valign="top">
 
-Hi, I'm **Houria** — a full-stack developer who enjoys turning rough ideas into clean, working products.
+Hi, I'm **Tanushka Srivastava** — a full-stack developer who enjoys turning rough ideas into clean, working products.
 
 ```
 🔭  Currently building:     something new
