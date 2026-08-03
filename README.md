@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1F1417,100:0D0D0D&height=220&section=header&text=Houria%20Hs&fontSize=52&fontColor=F7C6D9&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50&descColor=E8D5DC" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1F1417,100:0D0D0D&height=220&section=header&text=Tanushka%20Srivastava&fontSize=52&fontColor=F7C6D9&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50&descColor=E8D5DC" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=E8AFC4&center=true&vCenter=true&width=560&lines=Crafting+clean%2C+thoughtful+web+experiences;Turning+ideas+into+working+products;Always+chasing+the+next+thing+worth+building" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 <img src="https://img.shields.io/badge/FOLLOWERS-12-1a1a1a?style=for-the-badge&labelColor=0D0D0D&color=D9A5BC"/>
 <img src="https://img.shields.io/badge/STARS-12-1a1a1a?style=for-the-badge&labelColor=0D0D0D&color=D9A5BC"/>
-<img src="https://komarev.com/ghpvc/?username=Houria-hs&label=PROFILE+VIEWS&style=for-the-badge&color=D9A5BC&labelColor=0D0D0D"/>
+<img src="https://komarev.com/ghpvc/?username=TanushkaSrivastava&label=PROFILE+VIEWS&style=for-the-badge&color=D9A5BC&labelColor=0D0D0D"/>
 
 </div>
 
@@ -162,16 +162,16 @@ I like projects that sit at the intersection of **design and engineering** — w
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Houria-hs&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E8AFC4&icon_color=D9A5BC&text_color=C9BFC4&ring_color=D9A5BC" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Houria-hs&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E8AFC4&text_color=C9BFC4&langs_count=8" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TanushkaSrivastava&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E8AFC4&icon_color=D9A5BC&text_color=C9BFC4&ring_color=D9A5BC" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanushkaSrivastava&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E8AFC4&text_color=C9BFC4&langs_count=8" width="38%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Houria-hs&hide_border=true&background=0D0D0D&ring=D9A5BC&fire=E8AFC4&currStreakLabel=E8AFC4&sideLabels=C9BFC4&currStreakNum=C9BFC4&sideNums=C9BFC4&dates=8C8C8C" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanushkaSrivastava&hide_border=true&background=0D0D0D&ring=D9A5BC&fire=E8AFC4&currStreakLabel=E8AFC4&sideLabels=C9BFC4&currStreakNum=C9BFC4&sideNums=C9BFC4&dates=8C8C8C" width="60%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Houria-hs&bg_color=0D0D0D&color=E8AFC4&line=D9A5BC&point=F2C6D6&area=true&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanushkaSrivastava&bg_color=0D0D0D&color=E8AFC4&line=D9A5BC&point=F2C6D6&area=true&hide_border=true" width="90%"/>
 
 </div>
 
@@ -184,7 +184,7 @@ I like projects that sit at the intersection of **design and engineering** — w
 <td width="50%">
 <div>
 
-### 🩰 [Project One](https://github.com/Houria-hs/project-one)
+### 🩰 [Project One](https://github.com/TanushkaSrivastava/project-one)
 A short, clear line describing what this project does and why it matters.
 
 `React` `Node.js` `MongoDB`
@@ -194,7 +194,7 @@ A short, clear line describing what this project does and why it matters.
 <td width="50%">
 <div>
 
-### 🕯️ [Project Two](https://github.com/Houria-hs/project-two)
+### 🕯️ [Project Two](https://github.com/TanushkaSrivastava/project-two)
 A short, clear line describing what this project does and why it matters.
 
 `Next.js` `TypeScript` `Tailwind`
@@ -206,7 +206,7 @@ A short, clear line describing what this project does and why it matters.
 <td width="50%">
 <div>
 
-### 🪞 [Project Three](https://github.com/Houria-hs/project-three)
+### 🪞 [Project Three](https://github.com/TanushkaSrivastava/project-three)
 A short, clear line describing what this project does and why it matters.
 
 `Python` `FastAPI` `PostgreSQL`
@@ -216,7 +216,7 @@ A short, clear line describing what this project does and why it matters.
 <td width="50%">
 <div>
 
-### 🎐 [Project Four](https://github.com/Houria-hs/project-four)
+### 🎐 [Project Four](https://github.com/TanushkaSrivastava/project-four)
 A short, clear line describing what this project does and why it matters.
 
 `Vue` `Firebase` `Figma`
