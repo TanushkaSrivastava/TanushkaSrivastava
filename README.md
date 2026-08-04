@@ -28,7 +28,7 @@ Hi, I'm **Tanushka Srivastava** — a full-stack developer who enjoys turning ro
 🌱  Currently learning:     System Design · Cloud · DevOps
 🤝  Open to collaborate:    open source · AI-powered apps
 🎯  Goal:                   build products that solve real problems
-🎨  Off-screen:             astronomy, art & painting
+🎨  Off-screen:             art & painting, Graphic Design
 ```
 
 I like projects that sit at the intersection of **design and engineering** — where the code works *and* the experience feels good. Always chasing the next idea worth building.
@@ -98,40 +98,41 @@ I like projects that sit at the intersection of **design and engineering** — w
 <tr>
 <td width="50%" valign="top">
 
-**📜 Certificate Name One**
+**📜 AWS Cloud Computing**
 <br/>
-<sub>Issuing Platform · Month Year</sub>
+<sub>AWS Academy · 01, 2026</sub>
 <br/>
-<a href="#">🔗 View Credential</a>
+<a href="#">🔗 https://www.credly.com/go/0xAexUND
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-**📜 Certificate Name Two**
+**📜 SQL Intermediate **
 <br/>
-<sub>Issuing Platform · Month Year</sub>
+<sub>HackerRank · 07/ 2026</sub>
 <br/>
-<a href="#">🔗 View Credential</a>
+<a href="#">🔗 F33C2C30CFD7</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**📜 Certificate Name Three**
+**📜 Java **
 <br/>
-<sub>Issuing Platform · Month Year</sub>
+<sub>GUVI · 2024</sub>
 <br/>
-<a href="#">🔗 View Credential</a>
+<a href="#">🔗 View Certificate- www.guvl.in/certificate?id=a7116p437o1Pn03Cg6</a>
 
 </td>
 <td width="50%" valign="top">
 
-**📜 Certificate Name Four**
+**📜 Data Science and Analytics **
 <br/>
-<sub>Issuing Platform · Month Year</sub>
+<sub>GUVI · 07/ 2025</sub>
 <br/>
-<a href="#">🔗 View Credential</a>
+<a href="#">🔗 Z9a817ITw437Zb4825</a>
 
 </td>
 </tr>
@@ -143,16 +144,16 @@ I like projects that sit at the intersection of **design and engineering** — w
 
 <div align="center">
 
-<a href="https://codolio.com/profile/YOUR_CODOLIO_USERNAME">
+<a href="https://codolio.com/profile/Hey_Tanushka">
 <img src="https://img.shields.io/badge/Codolio-View_Profile-0D0D0D?style=for-the-badge&logo=codeforces&logoColor=F2C6D6&labelColor=0D0D0D&color=D9A5BC"/>
 </a>
-<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/-LeetCode-0D0D0D?style=for-the-badge&logo=leetcode&logoColor=F2C6D6"/></a>
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES"><img src="https://img.shields.io/badge/-Codeforces-0D0D0D?style=for-the-badge&logo=codeforces&logoColor=F2C6D6"/></a>
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK"><img src="https://img.shields.io/badge/-HackerRank-0D0D0D?style=for-the-badge&logo=hackerrank&logoColor=F2C6D6"/></a>
+<a href="https://leetcode.com/Tanushka_Srivastava"><img src="https://img.shields.io/badge/-LeetCode-0D0D0D?style=for-the-badge&logo=leetcode&logoColor=F2C6D6"/></a>
+<a href="https://codeforces.com/profile/TanushkaS"><img src="https://img.shields.io/badge/-Codeforces-0D0D0D?style=for-the-badge&logo=codeforces&logoColor=F2C6D6"/></a>
+<a href="https://www.hackerrank.com/tanushkasri245"><img src="https://img.shields.io/badge/-HackerRank-0D0D0D?style=for-the-badge&logo=hackerrank&logoColor=F2C6D6"/></a>
 
 <br/><br/>
 
-<sub>📊 All-in-one competitive programming stats, tracked live on <a href="https://codolio.com/profile/YOUR_CODOLIO_USERNAME">Codolio</a></sub>
+<sub>📊 All-in-one competitive programming stats, tracked live on <a href="https://codolio.com/profile/Hey_Tanushka">Codolio</a></sub>
 
 </div>
 
