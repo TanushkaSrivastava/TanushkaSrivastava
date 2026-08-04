@@ -185,47 +185,27 @@ I like projects that sit at the intersection of **design and engineering** — w
 <td width="50%">
 <div>
 
-### 🩰 [Project One](https://github.com/TanushkaSrivastava/project-one)
-A short, clear line describing what this project does and why it matters.
+### 🩰 [Project One](https://github.com/TanushkaSrivastava/Honest_Craft)
+Honest Craft — a small studio designing premium websites for restaurants, cafés, hotels and local businesses.
+Considered, fast, and built to earn trust, not just look good.
 
-`React` `Node.js` `MongoDB`
-
-</div>
-</td>
-<td width="50%">
-<div>
-
-### 🕯️ [Project Two](https://github.com/TanushkaSrivastava/project-two)
-A short, clear line describing what this project does and why it matters.
-
-`Next.js` `TypeScript` `Tailwind`
+`React` `Node.js`
 
 </div>
+
 </td>
 </tr>
 <tr>
 <td width="50%">
 <div>
 
-### 🪞 [Project Three](https://github.com/TanushkaSrivastava/project-three)
-A short, clear line describing what this project does and why it matters.
+### 🪞 [Project Three](https://github.com/TanushkaSrivastava/ResearchOS)
+esearchOS is an AI-powered research assistant that uses Retrieval-Augmented Generation (RAG) and a 7-agent architecture to analyze research papers. It enables intelligent search, comparison, summarization, and insight extraction from complex literature..
 
 `Python` `FastAPI` `PostgreSQL`
 
 </div>
-</td>
-<td width="50%">
-<div>
 
-### 🎐 [Project Four](https://github.com/TanushkaSrivastava/project-four)
-A short, clear line describing what this project does and why it matters.
-
-`Vue` `Firebase` `Figma`
-
-</div>
-</td>
-</tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1B22,50:D9A5BC,100:2E1B22&height=3&width=100%"/>
 
