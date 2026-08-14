@@ -1,232 +1,196 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1F1417,100:0D0D0D&height=220&section=header&text=Tanushka%20Srivastava&fontSize=52&fontColor=F7C6D9&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50&descColor=E8D5DC" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:D9C7F5,100:B8E3E9&height=200&section=header&text=Hi,%20I'm%20Tanushka%20👋&fontSize=42&fontColor=5B4B6E&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%7C%20Full-Stack%20Developer%20in%20Progress&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=E8AFC4&center=true&vCenter=true&width=560&lines=Crafting+clean%2C+thoughtful+web+experiences;Turning+ideas+into+working+products;Always+chasing+the+next+thing+worth+building" alt="Typing SVG" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/FOLLOWERS-12-1a1a1a?style=for-the-badge&labelColor=0D0D0D&color=D9A5BC"/>
-<img src="https://img.shields.io/badge/STARS-12-1a1a1a?style=for-the-badge&labelColor=0D0D0D&color=D9A5BC"/>
-<img src="https://komarev.com/ghpvc/?username=TanushkaSrivastava&label=PROFILE+VIEWS&style=for-the-badge&color=D9A5BC&labelColor=0D0D0D"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1B22,50:D9A5BC,100:2E1B22&height=3&width=100%"/>
-
-## 🕊️ &nbsp;About Me
-
-<table>
-<tr>
-<td width="62%" valign="top">
-
-Hi, I'm **Tanushka Srivastava** — a full-stack developer who enjoys turning rough ideas into clean, working products.
-
-```
-🔭  Currently building:     something new
-🌱  Currently learning:     System Design · Cloud · DevOps
-🤝  Open to collaborate:    open source · AI-powered apps
-🎯  Goal:                   build products that solve real problems
-🎨  Off-screen:             art & painting, Graphic Design
-```
-
-I like projects that sit at the intersection of **design and engineering** — where the code works *and* the experience feels good. Always chasing the next idea worth building.
-
-</td>
-<td width="38%" valign="top" align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=8C8C8C&center=true&vCenter=true&width=280&height=40&lines=%E2%9C%A8+coding+with+intention" alt="tagline"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&pause=1200&color=B48DD1&center=true&vCenter=true&width=560&lines=Building+things+that+work%2C+one+bug+at+a+time+%F0%9F%8C%B8;Java+%2B+Python+by+day%2C+curious+coder+always;Currently+building+SaveBite+%F0%9F%8D%B1;Open+to+opportunities+%E2%80%94+let's+talk!" alt="Typing SVG" />
 
 <br/>
 
-> *"Simplicity is the soul of good code."*
+[![Profile Views](https://komarev.com/ghpvc/?username=TanushkaSrivastava&color=d9b3ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/TanushkaSrivastava)
+[![GitHub followers](https://img.shields.io/github/followers/TanushkaSrivastava?style=for-the-badge&color=ffc9de&labelColor=fff0f5&logo=github&logoColor=b48dd1)](https://github.com/TanushkaSrivastava)
 
-</td>
+</div>
+
+<br/>
+
+## 🌸 About Me
+
+Hi there! I'm Tanushka, a Computer Engineering undergrad at Galgotias University, currently in my third year. I like to describe myself as someone who genuinely enjoys the process of figuring things out — whether that's debugging a stubborn Java program at midnight, designing a cleaner UI, or learning a new tool just because it looked interesting.
+
+Most of my work lives at the intersection of **Java, Python, and full-stack web development**, and I do almost all of it from a Linux setup. I started with small, practical projects — an Appointment Scheduling System, a Word Guessing Game — and I'm currently building a Java-based version of Flappy Bird for fun, alongside a larger project called **SaveBite**.
+
+Outside of coding, I mentor students, contribute to open source, take part in hackathons whenever I can, and I'm slowly exploring video editing and digital art on the side. I care a lot about clean code and thoughtful UI/UX, and I'm always happy to connect with people who want to build something together or just talk tech.
+
+<br/>
+
+## 💼 Experience
+
+<table>
+<tr>
+<th align="left">Role</th>
+<th align="left">Organization</th>
+<th align="left">Duration</th>
+<th align="left">What I Did</th>
+</tr>
+<tr>
+<td valign="top">Java Software Engineer</td>
+<td valign="top">Pinnacle Labs</td>
+<td valign="top">Jul – Aug 2025</td>
+<td valign="top">Designed and deployed 6 REST APIs in Java integrated with MySQL, cutting manual data-processing time by 10%. Built automated validation modules across 4 workflows, pushing output accuracy to 90%. Used AI-assisted tools (GitHub Copilot, ChatGPT, Cursor) to speed up development and debugging by 25%.</td>
+</tr>
+<tr>
+<td valign="top">Java Developer</td>
+<td valign="top">Pinnacle Labs</td>
+<td valign="top">Jul – Aug 2025</td>
+<td valign="top">Built a full e-commerce website using Java, JSP/Servlets, JDBC, and MySQL — covering product management, cart, and order processing. Created an admin dashboard for inventory and order management, and added search, filter, and sort features to improve the shopping experience.</td>
+</tr>
+<tr>
+<td valign="top">Mentor</td>
+<td valign="top">GUVI</td>
+<td valign="top">Aug – Sep 2025</td>
+<td valign="top">Ran structured mentoring sessions on analytical thinking and DSA fundamentals for 50 students. Designed hands-on exercises for Excel-based data workflows, improving learner confidence by 30%.</td>
+</tr>
+<tr>
+<td valign="top">Open Source Contributor</td>
+<td valign="top">GirlScript Summer of Code (GSSoC'25)</td>
+<td valign="top">Jul – Sep 2025</td>
+<td valign="top">Contributed to open-source projects, working closely with mentors and the community on real issues — gaining hands-on experience with version control, issue tracking, and collaborative code review.</td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1B22,50:D9A5BC,100:2E1B22&height=3&width=100%"/>
+<br/>
 
-## 🩶 &nbsp;Tech Stack
+## 🍱 What I'm Building Right Now
 
-<div align="center">
+### SaveBite — *Because Food Deserves a Second Chance*
+
+A donation and delivery platform that connects surplus food from events and parties to people who need it — turning post-celebration leftovers into community meals instead of waste.
+
+| 🎯 Mission | 🛠️ Stack | 📌 Status |
+|---|---|---|
+| Reduce food waste from events | React · Node.js · MongoDB | In active development |
+
+<br/>
+
+## 🗂️ Other Things I've Built
+
+| Project | Description | Tech |
+|---|---|---|
+| [**RaiseFund**](https://github.com/TanushkaSrivastava/RaiseFund) | A beginner-friendly full-stack dashboard where users can view their name, referral code, donations raised, and rewards, pulling data from a REST API. | React · Express |
+| [**Eco-Habit-Tracker**](https://github.com/TanushkaSrivastava/Eco-Habit-Tracker) | A habit tracker that helps users build eco-friendly routines and monitor progress toward healthier, more sustainable habits. | JavaScript |
+| [**DealLooo**](https://github.com/TanushkaSrivastava/DealLooo) | A project exploring deal/discount discovery, built while sharpening my TypeScript fundamentals. | TypeScript |
+| [**novametricresearch**](https://github.com/TanushkaSrivastava/novametricresearch) | A research-oriented project focused on data and metrics tracking. | TypeScript |
+
+<br/>
+
+## 🛠️ Tech Stack
 
 **Languages**
+
+![Java](https://img.shields.io/badge/Java-FADADD?style=for-the-badge&logo=openjdk&logoColor=7A5C61)
+![Python](https://img.shields.io/badge/Python-D9C7F5?style=for-the-badge&logo=python&logoColor=5B4B6E)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF3B0?style=for-the-badge&logo=javascript&logoColor=7A6E2E)
+![TypeScript](https://img.shields.io/badge/TypeScript-B8E3E9?style=for-the-badge&logo=typescript&logoColor=2E5F66)
+![HTML5](https://img.shields.io/badge/HTML5-FFD6E8?style=for-the-badge&logo=html5&logoColor=8A4B66)
+![CSS3](https://img.shields.io/badge/CSS3-C9F0DD?style=for-the-badge&logo=css3&logoColor=2E6B4F)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-B8E3E9?style=for-the-badge&logo=react&logoColor=2E5F66)
+![Node.js](https://img.shields.io/badge/Node.js-C9F0DD?style=for-the-badge&logo=nodedotjs&logoColor=2E6B4F)
+![Flask](https://img.shields.io/badge/Flask-EDEDED?style=for-the-badge&logo=flask&logoColor=5B4B6E)
+![Django](https://img.shields.io/badge/Django-C9F0DD?style=for-the-badge&logo=django&logoColor=2E6B4F)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-D9C7F5?style=for-the-badge&logo=mysql&logoColor=5B4B6E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-B8E3E9?style=for-the-badge&logo=postgresql&logoColor=2E5F66)
+![MongoDB](https://img.shields.io/badge/MongoDB-C9F0DD?style=for-the-badge&logo=mongodb&logoColor=2E6B4F)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-FFD6E8?style=for-the-badge&logo=amazonaws&logoColor=8A4B66)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FFD6E8?style=for-the-badge&logo=awslambda&logoColor=8A4B66)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FADADD?style=for-the-badge&logo=amazonec2&logoColor=7A5C61)
+![Git](https://img.shields.io/badge/Git-FADADD?style=for-the-badge&logo=git&logoColor=7A5C61)
+![Linux](https://img.shields.io/badge/Linux-EDEDED?style=for-the-badge&logo=linux&logoColor=5B4B6E)
+
+**Data & Tools**
+
+![Pandas](https://img.shields.io/badge/Pandas-D9C7F5?style=for-the-badge&logo=pandas&logoColor=5B4B6E)
+![NumPy](https://img.shields.io/badge/NumPy-B8E3E9?style=for-the-badge&logo=numpy&logoColor=2E5F66)
+![VS Code](https://img.shields.io/badge/VS%20Code-C9F0DD?style=for-the-badge&logo=visualstudiocode&logoColor=2E6B4F)
+![Figma](https://img.shields.io/badge/Figma-FFD6E8?style=for-the-badge&logo=figma&logoColor=8A4B66)
+![Postman](https://img.shields.io/badge/Postman-FFF3B0?style=for-the-badge&logo=postman&logoColor=7A6E2E)
+
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,cpp&theme=dark" />
 
-<br/><br/>
+## 🏅 Certifications
 
-**Frontend**
+| Certification | Issuer |
+|---|---|
+| AWS Academy Graduate — Cloud Foundations | AWS Academy |
+| Oracle Cloud Infrastructure 2025 — Generative AI Professional | Oracle |
+| Oracle Certified Foundation Associate — AI, ML, DL & Generative AI | Oracle |
+| Java Certified | GUVI |
+| Python Certified | GUVI |
+| Cascading Style Sheets (CSS) | HackerRank |
+| Design Thinking | NPTEL |
+| Cloud Computing | Infosys Springboard |
+
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vue&theme=dark" />
 
-<br/><br/>
+## 🎓 Education
 
-**Backend & Database**
+**Bachelor of Technology, Computer Engineering**
+Galgotias University, Greater Noida — Aug 2023 to Jul 2027
+
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres,firebase&theme=dark" />
 
-<br/><br/>
-
-**Tools & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,linux&theme=dark" />
-
-</div>
-
-<div align="center"><sub>✨ badges via <a href="https://skillicons.dev">skillicons.dev</a> — sticker-style, dark-theme icons that match this palette ✨</sub></div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1B22,50:D9A5BC,100:2E1B22&height=3&width=100%"/>
-
-## 🗣️ &nbsp;Languages I Speak
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-English-0D0D0D?style=for-the-badge&color=D9A5BC"/>
-<img src="https://img.shields.io/badge/-French-0D0D0D?style=for-the-badge&color=D9A5BC"/>
-<img src="https://img.shields.io/badge/-Arabic-0D0D0D?style=for-the-badge&color=D9A5BC"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TanushkaSrivastava&show_icons=true&count_private=true&hide_border=true&bg_color=FFF7FB&title_color=B48DD1&icon_color=F7A8C4&text_color=6B5B73" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanushkaSrivastava&hide_border=true&background=FFF7FB&ring=D9C7F5&fire=F7A8C4&currStreakLabel=B48DD1&sideLabels=6B5B73&currStreakNum=6B5B73&sideNums=6B5B73&dates=A99CB0" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanushkaSrivastava&layout=compact&hide_border=true&bg_color=FFF7FB&title_color=B48DD1&text_color=6B5B73&langs_count=8" width="48%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanushkaSrivastava&bg_color=FFF7FB&color=B48DD1&line=F7A8C4&point=6B5B73&hide_border=true&area=true" width="90%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1B22,50:D9A5BC,100:2E1B22&height=3&width=100%"/>
-
-## 🎓 &nbsp;Certificates & Achievements
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**📜 AWS Cloud Computing**
 <br/>
-<sub>AWS Academy · 01, 2026</sub>
+
+## 🌙 Beyond the Code
+
+```
+🎨  Generative Art     — letting algorithms take the wheel sometimes
+🎬  Video Editing       — piecing together stories, frame by frame
+🤝  Hackathons          — for the chaos, the coffee, and the learning
+```
+
+I'm also slowly working toward launching a small online store for digital content — still early days, but it's on the list.
+
 <br/>
-<a href="#">🔗 https://www.credly.com/go/0xAexUND
-</a>
 
-</td>
-<td width="50%" valign="top">
-
-**📜 SQL Intermediate **
-<br/>
-<sub>HackerRank · 07/ 2026</sub>
-<br/>
-<a href="#">🔗 F33C2C30CFD7</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📜 Java **
-<br/>
-<sub>GUVI · 2024</sub>
-<br/>
-<a href="#">🔗 View Certificate- www.guvl.in/certificate?id=a7116p437o1Pn03Cg6</a>
-
-</td>
-<td width="50%" valign="top">
-
-**📜 Data Science and Analytics **
-<br/>
-<sub>GUVI · 07/ 2025</sub>
-<br/>
-<a href="#">🔗 Z9a817ITw437Zb4825</a>
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1B22,50:D9A5BC,100:2E1B22&height=3&width=100%"/>
-
-## 🧩 &nbsp;DSA & Problem Solving
+## 📫 Let's Connect
 
 <div align="center">
 
-<a href="https://codolio.com/profile/Hey_Tanushka">
-<img src="https://img.shields.io/badge/Codolio-View_Profile-0D0D0D?style=for-the-badge&logo=codeforces&logoColor=F2C6D6&labelColor=0D0D0D&color=D9A5BC"/>
-</a>
-<a href="https://leetcode.com/Tanushka_Srivastava"><img src="https://img.shields.io/badge/-LeetCode-0D0D0D?style=for-the-badge&logo=leetcode&logoColor=F2C6D6"/></a>
-<a href="https://codeforces.com/profile/TanushkaS"><img src="https://img.shields.io/badge/-Codeforces-0D0D0D?style=for-the-badge&logo=codeforces&logoColor=F2C6D6"/></a>
-<a href="https://www.hackerrank.com/tanushkasri245"><img src="https://img.shields.io/badge/-HackerRank-0D0D0D?style=for-the-badge&logo=hackerrank&logoColor=F2C6D6"/></a>
-
-<br/><br/>
-
-<sub>📊 All-in-one competitive programming stats, tracked live on <a href="https://codolio.com/profile/Hey_Tanushka">Codolio</a></sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1B22,50:D9A5BC,100:2E1B22&height=3&width=100%"/>
-
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TanushkaSrivastava&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E8AFC4&icon_color=D9A5BC&text_color=C9BFC4&ring_color=D9A5BC" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanushkaSrivastava&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E8AFC4&text_color=C9BFC4&langs_count=8" width="38%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanushkaSrivastava&hide_border=true&background=0D0D0D&ring=D9A5BC&fire=E8AFC4&currStreakLabel=E8AFC4&sideLabels=C9BFC4&currStreakNum=C9BFC4&sideNums=C9BFC4&dates=8C8C8C" width="60%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanushkaSrivastava&bg_color=0D0D0D&color=E8AFC4&line=D9A5BC&point=F2C6D6&area=true&hide_border=true" width="90%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1B22,50:D9A5BC,100:2E1B22&height=3&width=100%"/>
-
-## 🌷 &nbsp;Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-<div>
-
-### 🩰 [Project One](https://github.com/TanushkaSrivastava/Honest_Craft)
-Honest Craft — a small studio designing premium websites for restaurants, cafés, hotels and local businesses.
-Considered, fast, and built to earn trust, not just look good.
-
-`React` `Node.js`
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-<div>
-
-### 🪞 [Project Three](https://github.com/TanushkaSrivastava/ResearchOS)
-esearchOS is an AI-powered research assistant that uses Retrieval-Augmented Generation (RAG) and a 7-agent architecture to analyze research papers. It enables intelligent search, comparison, summarization, and insight extraction from complex literature..
-
-`Python` `FastAPI` `PostgreSQL`
-
-</div>
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1B22,50:D9A5BC,100:2E1B22&height=3&width=100%"/>
-
-## 🤍 &nbsp;Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/-LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=F2C6D6"/></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=F2C6D6"/></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=F2C6D6"/></a>
-<a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/-Twitter-0D0D0D?style=for-the-badge&logo=twitter&logoColor=F2C6D6"/></a>
-<a href="https://instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/-Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=F2C6D6"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D9C7F5?style=for-the-badge&logo=linkedin&logoColor=5B4B6E)](https://www.linkedin.com/in/tanushka-srivastava-4b3017286/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFD6E8?style=for-the-badge&logo=vercel&logoColor=8A4B66)](https://tanushka-srivastava-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-C9F0DD?style=for-the-badge&logo=gmail&logoColor=2E6B4F)](mailto:tanushkasri245@gmail.com)
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1F1417,100:0D0D0D&height=110&section=footer"/>
-</div>
 
-<p align="center">
-<sub>✨ Thanks for stopping by — feel free to explore my repos and reach out ✨</sub>
-</p>
+*"I like building things that work, learning things that stretch me, and leaving code a little cleaner than I found it."*
+**— Tanushka Srivastava**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8E3E9,50:D9C7F5,100:FFD6E8&height=100&section=footer" width="100%"/>
+
+</div>
