@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td width="35%" align="center" valign="middle">
-      <img src="./avatar.png" alt="Tanushka's avatar illustration" width="280"/>
+      <img src="./avtar.png" alt="Tanushka's avatar illustration" width="280"/>
     </td>
     <td width="65%" valign="middle">
 
