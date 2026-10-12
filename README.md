@@ -13,15 +13,8 @@
 
 <br/>
 
-## 🌸 About Me
+![Uploading image.png…]()
 
-Hi there! I'm Tanushka, a Computer Engineering undergrad at Galgotias University, currently in my third year. I like to describe myself as someone who genuinely enjoys the process of figuring things out — whether that's debugging a stubborn Java program at midnight, designing a cleaner UI, or learning a new tool just because it looked interesting.
-
-Most of my work lives at the intersection of **Java, Python, and full-stack web development**, and I do almost all of it from a Linux setup. I started with small, practical projects — an Appointment Scheduling System, a Word Guessing Game — and I'm currently building a Java-based version of Flappy Bird for fun, alongside a larger project called **SaveBite**.
-
-Outside of coding, I mentor students, contribute to open source, take part in hackathons whenever I can, and I'm slowly exploring video editing and digital art on the side. I care a lot about clean code and thoughtful UI/UX, and I'm always happy to connect with people who want to build something together or just talk tech.
-
-<br/>
 
 ## 💼 Experience
 
