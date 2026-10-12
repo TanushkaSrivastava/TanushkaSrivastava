@@ -12,8 +12,63 @@
 </div>
 
 <br/>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2500&pause=800&color=86EFAC&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Tanushka+Srivastava+%F0%9F%91%8B;Full-Stack+Developer+in+Progress;Exploring+RAG+and+LLMs" alt="Typing SVG" />
+</p>
 
-![Uploading image.png…]()
+---
+
+<!-- About Me Section -->
+<h2 align="center">🌿 About Me</h2>
+
+<table>
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img src="./avatar.png" alt="Tanushka's avatar illustration" width="280"/>
+    </td>
+    <td width="65%" valign="middle">
+
+🔭 I'm currently working on **RAG, LLMs, and full-stack development projects.**
+
+👯 I'm looking to collaborate on **open-source projects and innovative tech solutions.**
+
+🤝 I'm looking for guidance on **job opportunities, building scalable systems, and developing real-world applications.**
+
+🌱 I'm currently learning **FastAPI, Machine Learning, REST APIs, and advanced backend development.**
+
+💬 Ask me about **React.js, JavaScript, Java, and SQL.**
+
+⚡ Fun fact: I love turning ideas into projects and solving problems one commit at a time!
+
+  </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,python,java,fastapi,mysql,mongodb,git,github,vscode" alt="Tech Stack"/>
+</p>
+
+---
+
+<h3 align="center">🤝 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/TanushkaSrivastava" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  💚 <i>Building, learning, and growing one commit at a time.</i>
+</p>
 
 
 ## 💼 Experience
