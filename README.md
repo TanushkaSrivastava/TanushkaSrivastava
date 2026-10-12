@@ -14,7 +14,7 @@
 <br/>
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2500&pause=800&color=86EFAC&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Tanushka+Srivastava+%F0%9F%91%8B;Full-Stack+Developer+in+Progress;Exploring+RAG+and+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2500&pause=800&color=86EFAC&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Tanushka+Srivastava+%F0%9F%91%8B;Full-Stack+Developer;RAG+and+LLMs" alt="Typing SVG" />
 </p>
 
 ---
