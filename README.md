@@ -197,7 +197,7 @@ I'm also slowly working toward launching a small online store for digital conten
 <h3 align="center">🤝 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/tanushka-srivastava-4b3017286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/TanushkaSrivastava" target="_blank">
@@ -206,8 +206,6 @@ I'm also slowly working toward launching a small online store for digital conten
 </p>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D9C7F5?style=for-the-badge&logo=linkedin&logoColor=5B4B6E)](https://www.linkedin.com/in/tanushka-srivastava-4b3017286/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFD6E8?style=for-the-badge&logo=vercel&logoColor=8A4B66)](https://tanushka-srivastava-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-C9F0DD?style=for-the-badge&logo=gmail&logoColor=2E6B4F)](mailto:tanushkasri245@gmail.com)
 
