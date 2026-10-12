@@ -206,6 +206,7 @@ I'm also slowly working toward launching a small online store for digital conten
 </p>
 
 <div align="center">
+  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFD6E8?style=for-the-badge&logo=vercel&logoColor=8A4B66)](https://tanushka-srivastava-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-C9F0DD?style=for-the-badge&logo=gmail&logoColor=2E6B4F)](mailto:tanushkasri245@gmail.com)
 
