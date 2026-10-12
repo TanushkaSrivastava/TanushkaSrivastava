@@ -1,17 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:D9C7F5,100:B8E3E9&height=200&section=header&text=Hi,%20I'm%20Tanushka%20👋&fontSize=42&fontColor=5B4B6E&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%7C%20Full-Stack%20Developer%20in%20Progress&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&pause=1200&color=B48DD1&center=true&vCenter=true&width=560&lines=Building+things+that+work%2C+one+bug+at+a+time+%F0%9F%8C%B8;Java+%2B+Python+by+day%2C+curious+coder+always;Currently+building+SaveBite+%F0%9F%8D%B1;Open+to+opportunities+%E2%80%94+let's+talk!" alt="Typing SVG" />
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=TanushkaSrivastava&color=d9b3ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/TanushkaSrivastava)
-[![GitHub followers](https://img.shields.io/github/followers/TanushkaSrivastava?style=for-the-badge&color=ffc9de&labelColor=fff0f5&logo=github&logoColor=b48dd1)](https://github.com/TanushkaSrivastava)
-
-</div>
-
-<br/>
 <!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2500&pause=800&color=86EFAC&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Tanushka+Srivastava+%F0%9F%91%8B;Full-Stack+Developer;RAG+and+LLMs" alt="Typing SVG" />
